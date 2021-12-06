@@ -1,0 +1,50 @@
+/* Color Theme Swatches in Hex */
+.Cortisonici-2021-1-hex {
+  color: #9305f2;
+}
+.Cortisonici-2021-2-hex {
+  color: #0f1140;
+}
+.Cortisonici-2021-3-hex {
+  color: #0583f2;
+}
+.Cortisonici-2021-4-hex {
+  color: #428c8c;
+}
+.Cortisonici-2021-5-hex {
+  color: #f26b5e;
+}
+
+/* Color Theme Swatches in RGBA */
+.Cortisonici-2021-1-rgba {
+  color: rgba(147, 4, 242, 1);
+}
+.Cortisonici-2021-2-rgba {
+  color: rgba(14, 17, 63, 1);
+}
+.Cortisonici-2021-3-rgba {
+  color: rgba(4, 131, 242, 1);
+}
+.Cortisonici-2021-4-rgba {
+  color: rgba(65, 140, 140, 1);
+}
+.Cortisonici-2021-5-rgba {
+  color: rgba(242, 106, 94, 1);
+}
+
+/* Color Theme Swatches in HSLA */
+.Cortisonici-2021-1-hsla {
+  color: hsla(275, 96, 48, 1);
+}
+.Cortisonici-2021-2-hsla {
+  color: hsla(236, 62, 15, 1);
+}
+.Cortisonici-2021-3-hsla {
+  color: hsla(208, 96, 48, 1);
+}
+.Cortisonici-2021-4-hsla {
+  color: hsla(180, 36, 40, 1);
+}
+.Cortisonici-2021-5-hsla {
+  color: hsla(5, 85, 66, 1);
+}

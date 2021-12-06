@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+body {
+  font-size: 16px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* ------------------ Other Background ---------------------------------- */
+
+  /* background: url(https://files.codingninjas.com/cdn-cgi/image/width=275/group-3429-9844.png)
+      no-repeat bottom 0 left 0,
+    linear-gradient(90.02deg, #343b89 -1.1%, #4d4899 99.97%); */
+
+  /* ------------------ Other Background ---------------------------------- */
+  background-color: #faf7f2;
+
+  /* ------------------ Other Background ---------------------------------- */
+  /* background-color: #fdfdfd; */
+  /* font-family: 'Heebo', sans-serif;
+font-family: 'PT Sans', sans-serif; */
+}
+
+
