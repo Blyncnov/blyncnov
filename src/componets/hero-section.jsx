@@ -37,7 +37,7 @@ const HeroSection = () => {
                             animate={{ y: -10, opacity: 1 }}
                             transition={{ duration: 2 }}
                         >{HeroSectionInfo.title}
-                            <cite> In order to be <span>irreplaceable</span>, one must always be <span>different</span></cite>
+                            <cite> In order to be <span>irreplaceable</span>, one must always be <span>different</span> 👨‍🎤</cite>
                         </motion.h1>
                         <motion.p
                             initial={{ opacity: 0.3 }}

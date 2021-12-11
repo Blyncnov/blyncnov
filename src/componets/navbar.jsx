@@ -37,7 +37,7 @@ const Navbar = () => {
                         {NavbarDataInfo.map((lists) => {
                             return (
                                 <li onClick={onToggleHandler} key={lists.id}>
-                                {lists.name}
+                               <a  href={"#" + lists.name}> {lists.name}</a>
                             </li>
                             )
                         })}

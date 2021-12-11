@@ -44,6 +44,14 @@ export const NavbarListItems = styled.ul`
     /* transform: scale(1.2); */
   }
 
+  a{
+    color: white;
+  }
+
+  :hover{
+    color: black;
+  }
+
   @media (max-width: 760px) {
     background-color: black;
     position: fixed;
@@ -65,6 +73,10 @@ export const NavbarListItems = styled.ul`
       background-color: white;
       color: black;
       border-radius: 0 4px 0 4px;
+    }
+
+    a:hover {
+      color: black;
     }
   }
 `;

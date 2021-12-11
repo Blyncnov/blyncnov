@@ -13,16 +13,16 @@ import PortfolioData from "../data/portfolioData"
 const PortfolioSection = () => {
     return (
         <>
-            <PortfolioSectionContainer>
+            <PortfolioSectionContainer id="Portfolio">
                 <h1 style={{color: "#020771"}}>MY PORTFOLIO</h1>
                 <p>
-                    We pride ourselves on transforming your website into something you can be proud of. Below, you will
+                    We pride ourselves on transforming your website into something you can be proud of 👇
                 </p>
                 <br/>
                 <PortfolioRow>
                     {PortfolioData.map(portfolio => {
                         return (
-                            <>
+                            <div >
                                 <PortfolioColumn>
                                     <a href={portfolio.link}>
                                         <PortfolioImage>
@@ -34,7 +34,7 @@ const PortfolioSection = () => {
 
                                     </Textwrap>
                                 </PortfolioColumn>
-                            </>
+                            </div>
                         )
                     })}
                 </PortfolioRow>

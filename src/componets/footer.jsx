@@ -4,7 +4,7 @@ import { FooterContainer , FooterRowContainer} from '../styles/footer-styles'
 
 const Footer = () => {
     return (
-        <div>
+        <div id="About">
             <FooterContainer>
                 <FooterRowContainer>
                     <hr style={{margin: ".6em"}}/>

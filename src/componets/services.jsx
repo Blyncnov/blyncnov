@@ -15,10 +15,10 @@ import ServiceData from '../data/serviceData'
 const ServiceSection = () => {
     return (
         <>
-        <div id="services">
+        <div id="Service">
             <GridItemContainer>
                 <GridItemRow>
-                    <h1 style={{ textAlign: "center", marginTop: "1em", color: "#020771" }}>WE'RE AWESOME AT</h1>
+                    <h1 style={{ textAlign: "center", marginTop: "1em", color: "#020771" }}>WE'RE AWESOME AT 🙅‍♂️</h1>
                     <p style={{ textAlign: "center", color: "#343F4A" }}>Make the right hires, faster with the
                         world's leading recruiting software</p>
                     <GridItemWrap>

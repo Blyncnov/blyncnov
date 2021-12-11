@@ -47,6 +47,7 @@ export const HeroSectionColumn = styled.div`
     border: none;
     background-color: #0583f2;
     font-family: "Heebo", sans-serif;
+    cursor: pointer;
   }
 
   a {
