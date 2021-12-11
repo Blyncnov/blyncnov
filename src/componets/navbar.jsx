@@ -29,7 +29,7 @@ const Navbar = () => {
         <>
             <NavbarContainer>
                 <NavbarRow>
-                    <Logo>
+                    <Logo  style={{cursor: 'pointer'}}> 
                         {/* <h1>{LogoName}</h1> */}
                         <img src="https://i.imgur.com/1qGvdoY.gif" alt="blyncnov" />
                     </Logo>
@@ -43,7 +43,7 @@ const Navbar = () => {
                         })}
                     </NavbarListItems>
                     <Mobile onClick={onToggleHandler}>
-                        {clicked ? <FaTimes /> : <FaBars />}
+                        {clicked ? <FaTimes style={{cursor: 'pointer'}} /> : <FaBars  style={{cursor: 'pointer'}} />}
                     </Mobile>
                 </NavbarRow>
             </NavbarContainer>

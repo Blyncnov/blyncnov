@@ -14,7 +14,7 @@ const PortfolioSection = () => {
     return (
         <>
             <PortfolioSectionContainer>
-                <h1>MY PORTFOLIO</h1>
+                <h1 style={{color: "#020771"}}>MY PORTFOLIO</h1>
                 <p>
                     We pride ourselves on transforming your website into something you can be proud of. Below, you will
                 </p>

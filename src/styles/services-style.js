@@ -20,7 +20,7 @@ export const GridItemWrap = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 4em;
+  gap: 2em;
 
   h1 {
     font-size: 1.5rem;

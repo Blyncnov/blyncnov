@@ -5,6 +5,7 @@ import ServiceSection from "./componets/services";
 import Portfolio from "./componets/portfolio";
 import Greet from "./componets/greet"
 import Quotes from "./componets/quota"
+import Footer from "./componets/footer";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Portfolio />
       <Greet/>
       <Quotes/>
+      <Footer/>
     </>
   );
 };
