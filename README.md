@@ -16,13 +16,17 @@ return Blockchain developer
 }
 ```
 
-* 👋 I'm available to collaboration  on any project related to my stack , as follows.
+* 🎯 I'm available to collaboration  on any project related to my stack , as follows.
 
-`pages/api`
-`pages/api`
-`pages/api`
-`pages/api`
-`pages/api`
+`HTML5/CSS3`
+`JavaScript`
+`ReactJs`
+`NextJs`
+`Typescript`
+`Solidity`
+`Blockchain`
+
+* 💬 Reach out to me `bholuwatife00@gmail.com`
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blyncnov)
