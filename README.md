@@ -3,7 +3,7 @@
 * I'm a Frontend && Blockchain Developer 😊😊
 
 ```bash
-cd blyncnov
+const blyncnov
 
 if(JavaScript) {
 
