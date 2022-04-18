@@ -1,5 +1,12 @@
-! 👋 Hi there , thanks for stopping by - BTW i'm Taiwo Boluwatife (Jeremy)
+! 👋 Hi there , thanks for stopping by - BTW i'm Taiwo Boluwatife (Jeremy).
+
 ! I'm a Frontend && Blockchain Developer 😊😊
+
+```bash
+cd blyncnov
+return
+Frontend developer
+```
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=blyncnov)
