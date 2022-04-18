@@ -1,11 +1,14 @@
-! 👋 Hi there , thanks for stopping by - BTW i'm Taiwo Boluwatife (Jeremy).
+* 👋 Hi there , thanks for stopping by - BTW i'm Taiwo Boluwatife (Jeremy).
 
-! I'm a Frontend && Blockchain Developer 😊😊
+* I'm a Frontend && Blockchain Developer 😊😊
 
 ```bash
 cd blyncnov
-return
-Frontend developer
+if(JavaScript) {
+return Frontend developer
+} else {
+return Blockchain developer
+}
 ```
 
 
