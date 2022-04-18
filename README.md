@@ -1,5 +1,7 @@
 * 👋 Hi there , thanks for stopping by - BTW i'm Taiwo Boluwatife (Jeremy).
 
+I also goes by the identity `Blyncnov`
+
 * I'm a Frontend && Blockchain Developer 😊😊
 
 ```bash
