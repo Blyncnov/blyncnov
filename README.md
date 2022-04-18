@@ -6,6 +6,8 @@
 
 * I'm a Frontend && Blockchain Developer 😊😊
 
+* ![](https://komarev.com/ghpvc/?username=blyncnov)
+
 ```bash
 const blyncnov
 
