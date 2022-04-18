@@ -16,6 +16,7 @@ return Blockchain developer
 }
 ```
 
+
 * 🎯 I'm available to collaboration  on any project related to my stack , as follows.
 
 `HTML5/CSS3`
@@ -25,6 +26,7 @@ return Blockchain developer
 `Typescript`
 `Solidity`
 `Blockchain`
+
 
 * 💬 Reach out to me `bholuwatife00@gmail.com`
 
