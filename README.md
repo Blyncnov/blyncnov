@@ -2,7 +2,7 @@
 
 * I also goes by the identity `Blyncnov` .
 
-You can check out [my portfolio website](https://blyncnov.com) - your feedback and contributions are welcome!
+* You can check out [my portfolio website](https://blyncnov.com) - your feedback and contributions are welcome!
 
 * I'm a Frontend && Blockchain Developer 😊😊
 
