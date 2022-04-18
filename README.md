@@ -1,6 +1,6 @@
 * 👋 Hi there , thanks for stopping by - BTW i'm Taiwo Boluwatife (Jeremy).
 
-I also goes by the identity `Blyncnov` .
+* I also goes by the identity `Blyncnov` .
 
 You can check out [my portfolio website](https://blyncnov.com) - your feedback and contributions are welcome!
 
