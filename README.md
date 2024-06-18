@@ -17,7 +17,7 @@ return Frontend developer
 
 } else {
 
-return Blockchain developer
+return iOS developer
 
 }
 ```
@@ -30,8 +30,8 @@ return Blockchain developer
 `ReactJs`
 `NextJs`
 `Typescript`
-`Solidity`
-`Blockchain`
+`SwiftUI`
+`NodeJs`
 
 
 * 💬 Reach out to me `bholuwatife00@gmail.com`
